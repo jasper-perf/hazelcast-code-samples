@@ -20,7 +20,7 @@
 
         <spring.version>4.0.6.RELEASE</spring.version>
         <hibernate.version>3.5.4-Final</hibernate.version>
-        <apache-derby.version>10.10.2.0</apache-derby.version>
+        <apache-derby.version>10.14.2.0</apache-derby.version>
         <slf4j.version>1.7.7</slf4j.version>
         <javassist.version>3.12.1.GA</javassist.version>
     </properties>
